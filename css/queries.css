@@ -1,0 +1,240 @@
+@media (max-width: 768px){
+    .t31{
+        position: absolute;
+        font-size: 150%;
+        top: 0%;
+        left: 12%;
+    }
+    .t32{
+        position: absolute;
+        top: 24%;
+        font-size: 80%;
+        margin-left: 20px;
+        margin-right: 5px;
+    }
+    .t331{
+        position: absolute;
+        font-size: 100%;
+        top: 0%;
+        left: 0%;
+        text-align: center;
+    }
+    .t332{
+        position: absolute;
+        top: 2%;
+        font-size: 70%;
+        margin-left: 20px;
+        margin-right: 5px;
+    }
+    .t311{
+        font-size: 20px;
+        top: 0%;
+        left: 10%;
+    }
+    .t321{
+        font-size: 16px;
+        top: 10%;
+    }
+    .works-content{
+        width: 91%;
+        left: 4%;
+    }
+}
+@media (max-width: 480px){
+    header{
+        position: relative;
+        height: 70vh;
+    }
+    .header-content{
+        position: absolute;
+        height: 30%;
+        width: 35%;
+        left: 5%;
+        top: 5%;
+    }
+    h1{
+        font-size: 40px;
+    }
+    h4{
+        font-size: 20px;
+        margin-left: 10%;
+    }
+    p{
+        font-size: 18px;
+    }
+    button{
+        height: 27%;
+        width: 57%;
+        margin-top: 5%;
+        font-size: 13px;
+        background-color: rgb(6, 161, 6);
+        border: 1px solid rgb(6, 161, 6);
+        color: white;
+    }
+    .section-works{
+        position: relative;
+        height: 200vh;
+    }
+    .works-content{
+        margin-top: -8%;
+    }
+    .box21{
+        position: relative;
+        width: 40%;
+        height: 20%;
+        left: 10%;
+        top: 20%;
+    }
+    .box22{
+        position: relative;
+        width: 40%;
+        height: 20%;
+        left: 51%;
+        top: 0%;
+    }
+    .box23{
+        position: relative;
+        width: 40%;
+        height: 20%;
+        left: 10%;
+        top: 1%;
+    }
+    .box24{
+        position: relative;
+        width: 40%;
+        height: 20%;
+        left: 51%;
+        top: -19%;
+    }
+    .box25{
+        position: relative;
+        width: 80%;
+        height: 15%;
+        top: -18%;
+        left: 10%;
+    }
+    .box26{
+        position: relative;
+        width: 80%;
+        height: 15%;
+        top: -17%;
+        left: 10%;
+    }
+    .t1{
+        font-size: 22px;
+    }
+    .t2{
+        font-size: 15px;
+    }
+    .t31{
+        font-size: 22px;
+        left: 5%;
+    }
+    .t32{
+        top: 17%;
+        left: 0%;
+        font-size: 17px;
+    }
+    .section-promise{
+        height: 80vh;
+    }
+    .content-box{
+        top: 10%;
+    }
+    .b2{
+        width: 50%;
+    }
+    .section-About{
+        height: 100vh;
+    }
+    .box221{
+        position: relative;
+        width: 38%;
+        height: 30%;
+        left: 12%;
+        top: 34%;
+
+    }
+    .box222{
+        position: relative;
+        width: 38%;
+        height: 30%;
+        left: 52%;
+        top: 4%;
+    }
+    .box223{
+        position: absolute;
+        width: 38%;
+        height: 30%;
+        left: 12%;
+        top: 65%;
+    }
+    .box220{
+        position: absolute;
+        width: 38%;
+        height: 30%;
+        left: 52%;
+        top: 65%;
+    }
+    .t332{
+        font-size: 12px;
+        margin-top: 6.8%;
+        margin-left: 0%;
+    }
+    .section-vege{
+        height: 110vh;
+    }
+    .box244{
+        width: 30%;
+        left: 4%;
+        top: 20%;
+        height: 65%;
+    }
+    .box243{
+        width: 80%;
+        height: 32%;
+        left: 10%;
+    }
+    .box254{
+        width: 30%;
+        height: 65%;
+        top: 20%;
+        left: 35.5%;
+    }
+    .box253{
+        width: 80%;
+        height: 32%;
+        left: 10%;
+    }
+    .box264{
+        width: 30%;
+        height: 65%;
+        top: 20%;
+        left: 67%;
+    }
+    .box263{
+        width: 80%;
+        height: 32%;
+        left: 10%;
+    }
+    .t311{
+        position: absolute;
+        font-size: 130%;
+        top: -10%;
+        left: 17%;
+    }
+    .t321{
+        position: absolute;
+        top: 20%;
+        font-size: 80%;
+        margin-left: 20px;
+        margin-right: 5px;
+    }
+    .content-box2{
+        top: 10%;
+        left: 5%;
+    }
+    .p1{
+        font-size: 15px;
+    }
+}
